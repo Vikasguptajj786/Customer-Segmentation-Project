@@ -1,7 +1,7 @@
 Mall Customer Segmentation Analysis
 This project performs an in-depth exploratory data analysis (EDA) and customer segmentation on the Mall Customers dataset. The goal is to understand customer behavior and identify distinct groups based on their shopping habits, which can be used to develop targeted marketing strategies.
 
-!(https://www.google.com/search?q=https://placehold.co/800x300/E1E4E8/495057%3Ftext%3DMall%2BCustomer%2BAnalytics)
+The dataset for this project is publicly available on Kaggle and can be downloaded from the following link: "https://www.kaggle.com/datasets/vikasjigupta786/customer-analytics-practice-dataset"
 
 📋 Table of Contents
 Project Overview
@@ -87,7 +87,7 @@ To replicate this analysis on your local machine, follow these steps:
 
 Clone the repository:
 
-git clone [https://github.com/YourUsername/Customer-Segmentation-Project.git](https://github.com/YourUsername/Customer-Segmentation-Project.git)
+git clone https://github.com/Vikasguptajj786/Customer-Segmentation-Project.git
 cd Customer-Segmentation-Project
 
 Install the required libraries:
