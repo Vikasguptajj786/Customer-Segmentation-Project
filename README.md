@@ -65,22 +65,6 @@ Explored the relationships between different variables using scatter plots, box 
 ✨ Key Visualizations
 Below are some of the key charts from the analysis that highlight customer trends.
 
-(Pro-Tip: Take screenshots of your best plots from the notebook and add them here by dragging and dropping them into this README file on GitHub.)
-
-1. Distribution of Annual Income and Spending Score
-<br>
-[Your screenshot of the distribution plots would go here]
-<br>
-
-2. Age vs. Spending Score
-<br>
-[Your screenshot of the Age vs. Spending Score scatter plot would go here]
-<br>
-
-3. Gender Distribution
-<br>
-[Your screenshot of the gender pie chart would go here]
-<br>
 
 🚀 How to Run This Project
 To replicate this analysis on your local machine, follow these steps:
